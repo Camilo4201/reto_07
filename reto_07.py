@@ -1,7 +1,7 @@
 import json
 from collections import deque, namedtuple
 
-# Define a named tuple for MenuItem
+
 MenuItemTuple = namedtuple('MenuItemTuple', ['name', 'price'])
 
 class MenuItem:
